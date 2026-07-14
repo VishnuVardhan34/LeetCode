@@ -1,0 +1,5 @@
+The logic for the solution is that:
+
+We loop over the senentce of sentences and in the inner loop we will parse thorught the characters of sentence and increament the counter by 1 when we encounter a white-space and in the outer loop we will intilie a variable max_count and after every senctence is done if the previous max_count is less it getss updated with the current maxinmum value and return the max_count.
+
+Don't forget to initilize the count with 1 not 0.
