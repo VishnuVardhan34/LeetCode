@@ -1,0 +1,29 @@
+Problem: Difference Between Element Sum and Digit Sum of an Array
+
+Logic:
+1. Initialize two variables:
+   - element_sum = 0
+   - digit_sum = 0
+
+2. Traverse the array once.
+   - Add the current element to element_sum.
+   - Store the current element in a temporary variable.
+
+3. Extract the digits of the current number using a while loop:
+   - Get the last digit using `num % 10`.
+   - Add the digit to digit_sum.
+   - Remove the last digit using integer division (`num /= 10`).
+   - Repeat until the number becomes 0.
+
+4. After processing all elements, compute the absolute difference:
+   - |element_sum - digit_sum|
+
+5. Return the absolute difference.
+
+Time Complexity: O(n × d)
+- n = number of elements in the array.
+- d = maximum number of digits in an element.
+- Since nums[i] ≤ 2000 (at most 4 digits), d is effectively constant, making the solution O(n).
+
+Space Complexity: O(1)
+- Only a few integer variables are used regardless of the input size.
