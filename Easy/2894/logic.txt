@@ -1,0 +1,29 @@
+Problem: Divide Array Into Two Sum Groups
+
+Logic:
+1. Initialize two variables:
+   - `num1 = 0` to store the sum of numbers that are NOT divisible by `m`.
+   - `num2 = 0` to store the sum of numbers that ARE divisible by `m`.
+
+2. Traverse all integers from `1` to `n` (inclusive).
+
+3. For each number:
+   - If the number is divisible by `m` (`i % m == 0`), add it to `num2`.
+   - Otherwise, add it to `num1`.
+
+4. After traversing all numbers, compute the required result:
+      num1 - num2
+
+5. Return the result.
+
+Why it works:
+- Every integer in the range [1, n] belongs to exactly one of two groups:
+  - Divisible by `m`
+  - Not divisible by `m`
+- By maintaining separate sums for these two groups, we can directly compute the required difference (`num1 - num2`) at the end.
+
+Time Complexity: O(n)
+- Each integer from 1 to n is processed exactly once.
+
+Space Complexity: O(1)
+- Only two integer variables are used to store the sums.
