@@ -1,0 +1,4 @@
+For this soluton there are two ways those are using the inbuilt rust functions and the hard way:
+1. By using the inbuilt way:
+        That is we use the inbuilt eq to check the reversed chars of the word with the original chars of the word and return the word if they match else an empty string.
+2. By storing the reversed chars by .collect()
