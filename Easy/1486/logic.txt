@@ -1,0 +1,21 @@
+Problem: XOR Operation in an Array
+
+Logic:
+1. Initialize a variable `xor` to 0. This will store the cumulative XOR of all elements.
+2. Traverse from index `0` to `n - 1`.
+3. For each index `i`, compute the array element using the given formula:
+      value = start + (2 × i)
+4. Update the running XOR by performing:
+      xor = xor ^ value
+5. After all elements have been processed, return `xor`.
+
+Why it works:
+- The problem only asks for the XOR of the generated array, not the array itself.
+- Therefore, instead of creating and storing the entire array, each element can be computed on the fly and immediately XORed into the result.
+- This saves extra memory while producing the same answer.
+
+Time Complexity: O(n)
+- Each of the n elements is computed and XORed exactly once.
+
+Space Complexity: O(1)
+- Only one variable is used to store the running XOR; no additional array is created.
