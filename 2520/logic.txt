@@ -1,0 +1,2 @@
+The logic to this solution:
+We will clone the origina number and create 2 mut variables count, n and we will lopp until n > 0 (each time we are making it n /= 10) and inside while check for (original % digit) == 0 and increament the count like-wise, and at last we will return the count.
