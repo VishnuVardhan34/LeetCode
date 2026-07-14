@@ -3,4 +3,3 @@ impl Solution {
         let l = s.to_lowercase();
         return l;
     }
-}
