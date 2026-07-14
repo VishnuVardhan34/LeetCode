@@ -1,0 +1,2 @@
+The logic is pretty straight forward:
+    loop in for the hours.len() and compare the each hours[i] with target if they met the required target increase the count and return it.
