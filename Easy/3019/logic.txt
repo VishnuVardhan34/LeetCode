@@ -1,0 +1,22 @@
+Problem: Number of Changing Keys
+
+Logic:
+1. Convert the input string into a character array (`Vec<char>`) so that adjacent characters can be accessed using indices.
+2. Initialize a counter `count = 0`.
+3. Traverse the character array from the second character (index 1) to the end.
+4. For each character:
+   - Compare it with the previous character using `eq_ignore_ascii_case()`.
+   - This comparison ignores differences in uppercase and lowercase letters (e.g., 'a' and 'A' are treated as the same key).
+5. If the current and previous characters are different (ignoring case), increment the counter.
+6. After processing all adjacent character pairs, return the counter.
+
+Why it works:
+- A key change occurs only when two consecutive characters represent different alphabetic keys.
+- Using `eq_ignore_ascii_case()` ensures that changes caused only by Shift or Caps Lock are ignored, matching the problem statement.
+- Every adjacent pair is checked exactly once, guaranteeing that all key changes are counted.
+
+Time Complexity: O(n)
+- Each character is compared with its previous character exactly once.
+
+Space Complexity: O(n)
+- An additional `Vec<char>` is created to allow indexed access to characters.

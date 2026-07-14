@@ -1,0 +1,23 @@
+Problem: Find Words Containing Character
+
+Logic:
+1. Initialize an empty array `result` to store the indices of the matching words.
+2. Traverse the `words` array using its indices.
+3. For each word:
+   - Check if the word contains the given character `x`.
+   - If it does, append the current index to the `result` array.
+4. After checking all words, return the `result` array.
+
+Why it works:
+- Each word is examined exactly once.
+- If a word contains the required character, its index is recorded.
+- Since each word is processed independently, every valid index is included exactly once.
+
+Time Complexity: O(n × m)
+- n = number of words.
+- m = average length of a word.
+- In the worst case, each character of every word is checked.
+
+Space Complexity: O(k)
+- k = number of words that contain the character.
+- The output array stores only the indices of matching words.

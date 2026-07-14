@@ -1,0 +1,25 @@
+Problem: Triangle Type
+
+Logic:
+1. Store the three side lengths in separate variables (`a`, `b`, and `c`).
+2. First, verify whether the three sides can form a valid triangle using the Triangle Inequality Theorem:
+   - `a + b > c`
+   - `a + c > b`
+   - `b + c > a`
+3. If any of the above conditions fail, return `"none"` since a valid triangle cannot be formed.
+4. If all three sides are equal, return `"equilateral"`.
+5. Otherwise, if any two sides are equal, return `"isosceles"`.
+6. If none of the sides are equal, return `"scalene"`.
+
+Why it works:
+- The Triangle Inequality Theorem guarantees that the given side lengths can form a valid triangle.
+- Once validity is confirmed:
+  - Three equal sides imply an equilateral triangle.
+  - Exactly two equal sides imply an isosceles triangle.
+  - Three different sides imply a scalene triangle.
+
+Time Complexity: O(1)
+- Only a fixed number of comparisons are performed.
+
+Space Complexity: O(1)
+- Only a few variables are used regardless of the input size.
