@@ -1,0 +1,6 @@
+Logic:
+- Convert the input string to lowercase using Rust's built-in `to_lowercase()` method.
+- Return the newly created lowercase string.
+
+Time: O(n)
+Space: O(n)
