@@ -1,0 +1,17 @@
+Problem: Sum Multiples
+
+Logic:
+1. Initialize a variable `sum = 0`.
+2. Traverse all integers from 1 to n (inclusive).
+3. For each number:
+   - Check if it is divisible by 3, 5, or 7 using the modulo operator (`%`).
+   - A number is divisible by another number if the remainder is 0.
+   - If `i % 3 == 0 || i % 5 == 0 || i % 7 == 0`, add the current number to `sum`.
+4. After traversing the entire range, return `sum`.
+
+Time Complexity: O(n)
+- Each number from 1 to n is visited exactly once.
+- Each iteration performs a constant number of modulo operations.
+
+Space Complexity: O(1)
+- Only one variable (`sum`) is used regardless of the input size.
