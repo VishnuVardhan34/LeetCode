@@ -1,0 +1,25 @@
+Problem: GCD of Odd and Even Sums
+
+Logic:
+1. Compute the sum of the first `n` odd numbers using the mathematical formula:
+      sumOdd = n²
+2. Compute the sum of the first `n` even numbers using the mathematical formula:
+      sumEven = n × (n + 1)
+3. Find the Greatest Common Divisor (GCD) of `sumOdd` and `sumEven` using the Euclidean Algorithm:
+   - While the second number is not zero:
+     - Store the second number in a temporary variable.
+     - Replace the second number with the remainder of the division (`a % b`).
+     - Replace the first number with the temporary value.
+   - When the second number becomes zero, the first number is the GCD.
+4. Return the computed GCD.
+
+Why it works:
+- The sum of the first `n` odd numbers is always `n²`.
+- The sum of the first `n` even numbers is always `n(n + 1)`.
+- The Euclidean Algorithm efficiently computes the greatest common divisor by repeatedly replacing the larger number with the remainder until no remainder exists.
+
+Time Complexity: O(log(min(sumOdd, sumEven)))
+- The Euclidean Algorithm runs in logarithmic time.
+
+Space Complexity: O(1)
+- Only a few integer variables are used.
