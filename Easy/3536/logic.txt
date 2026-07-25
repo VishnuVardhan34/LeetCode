@@ -1,0 +1,28 @@
+Logic: Maximum Product of Any Two Digits
+
+Problem:
+Given a positive integer `n`, return the maximum product of any two digits in `n`.
+
+Approach:
+To get the maximum product of any two digits, we simply need to find the two largest digits in the number. 
+
+Instead of converting the number to a String or an array (which requires O(N) auxiliary space and memory allocation), we can extract the digits mathematically using modulo (`%`) and division (`/`). We evaluate the digits from right to left while keeping track of the two largest values seen so far.
+
+Algorithm / Steps:
+1. Initialize two variables, `max1` and `max2`, to 0. 
+   - `max1` will track the largest digit.
+   - `max2` will track the second largest digit.
+2. Since Rust function arguments are immutable by default, shadow the input `n` with a mutable copy (`let mut n = n;`).
+3. Loop while `n` is greater than 0:
+   a. Extract the rightmost digit using `n % 10`.
+   b. Check the digit against our max values:
+      - If the `digit` is greater than `max1`: 
+        We have a new absolute highest number. The old `max1` gets bumped down to become the new `max2`, and `max1` takes the value of the new `digit`.
+      - Else, if the `digit` is greater than `max2`: 
+        It's not the biggest number we've seen, but it is bigger than our current second-biggest, so we update `max2`.
+   c. Remove the rightmost digit from `n` by performing integer division by 10 (`n /= 10`).
+4. Once the loop finishes, multiply `max1` and `max2` together and return the result.
+
+Complexity Analysis:
+- Time Complexity: O(d) or O(log10(n)), where `d` is the number of digits in `n`. We iterate through the digits exactly once. Since n <= 10^9, this loop runs a maximum of 10 times, making it O(1) in practical terms.
+- Space Complexity: O(1). The algorithm operates entirely in-place using just a few integer variables. No strings, arrays, or iterators are allocated in memory.
