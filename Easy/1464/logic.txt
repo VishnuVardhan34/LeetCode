@@ -1,0 +1,29 @@
+Approach:
+1. Sort the array in ascending order.
+2. The two largest elements will be at the last two indices of the sorted array.
+3. Since the expression is (nums[i] - 1) * (nums[j] - 1), the maximum value is obtained by choosing the two largest numbers.
+4. Compute:
+      (largest - 1) * (second_largest - 1)
+5. Return the computed value.
+
+Example:
+nums = [3, 4, 5, 2]
+
+After sorting:
+[2, 3, 4, 5]
+
+Largest elements:
+5 and 4
+
+Result:
+(5 - 1) * (4 - 1)
+= 4 * 3
+= 12
+
+Time Complexity:
+- Sorting the array: O(n log n)
+- Computing the answer: O(1)
+Overall: O(n log n)
+
+Space Complexity:
+- O(1) (ignoring the space used internally by the sorting algorithm)
