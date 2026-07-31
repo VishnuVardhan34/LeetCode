@@ -1,0 +1,43 @@
+# Logic
+
+## Intuition
+
+Since we are free to remap the letters to any of the 8 available keys (2–9), the actual keypad layout does not matter. The goal is to minimize the total number of key presses.
+
+A letter that appears more frequently should require fewer key presses than a letter that appears less frequently. Therefore, we first count the frequency of every character and sort these frequencies in descending order.
+
+There are only **8 keys**, so:
+
+* The first **8** most frequent letters can occupy the first position on each key and require **1 push**.
+* The next **8** letters occupy the second position and require **2 pushes**.
+* The next **8** letters require **3 pushes**, and so on.
+
+Thus, after sorting the frequencies, the cost of the letter at index `i` is:
+
+`cost = (i / 8) + 1`
+
+The answer is the sum of:
+
+`frequency × assigned_cost`
+
+for every distinct letter.
+
+## Algorithm
+
+1. Create a frequency array of size 26 and count the occurrences of each letter.
+2. Sort the frequency array in descending order.
+3. Traverse the sorted frequencies.
+4. For each non-zero frequency:
+
+   * Compute its push cost as `(index / 8) + 1`.
+   * Add `frequency × cost` to the answer.
+5. Return the accumulated answer.
+
+## Correctness
+
+Sorting the frequencies ensures that the most frequent letters are assigned to the cheapest available positions. If a higher-frequency letter were assigned a higher cost than a lower-frequency letter, swapping their positions would always decrease (or keep the same) the total number of key presses. Therefore, assigning costs in descending order of frequency is optimal.
+
+## Complexity Analysis
+
+* **Time Complexity:** **O(n)**, where `n` is the length of the input string. Counting frequencies takes `O(n)`, while sorting 26 values is constant time.
+* **Space Complexity:** **O(1)**, since the frequency array always contains exactly 26 elements.
