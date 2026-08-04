@@ -1,4 +1,4 @@
-// Last updated: 8/4/2026, 5:17:02 PM
+// Last updated: 8/4/2026, 5:19:27 PM
 1class Solution {
 2public:
 3    int maxArea(vector<int>& heights) {
@@ -6,12 +6,8 @@
 5        while(l<r) {
 6            area = min(heights[l], heights[r]) * (r-l);
 7            maxArea = max(maxArea, area);
-8            if(heights[l] < heights[r]) {
-9                l++;
-10            } else {
-11                r--;
-12            }
-13        }
-14        return maxArea;
-15    }
-16};
+8            heights[l] < heights[r] ? l++ : r--;
+9        }
+10        return maxArea;
+11    }
+12};
