@@ -5,12 +5,13 @@ using namespace std;
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-        unordered_set<int> st(nums.begin(), nums.end());
-        int min = *min_element(nums.begin(), nums.end());
-        int max = *max_element(nums.begin(), nums.end());
         vector<int> ans;
-        for (int i=min;i<max;i++) {
-            if(st.find(i) == st.end()) ans.push_back(i);
+        sort(nums.begin(), nums.end());
+        set<int> st(nums.begin(), nums.end());
+        int a=nums[0];
+        int b=nums.back();
+        for(int i =a+1;i<=b-1;i++) {
+            if(st.count(i)==0) ans.push_back(i);
         }
         return ans;
     }
