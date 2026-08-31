@@ -79,4 +79,8 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/VishnuVardhan34/LeetCode/tree/master/1872-stone-game-viii) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VishnuVardhan34/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
