@@ -33,6 +33,7 @@ This Repo contains all my LeetCode solutions..
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/VishnuVardhan34/LeetCode/tree/master/0231-power-of-two) |
 | [1872-stone-game-viii](https://github.com/VishnuVardhan34/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/VishnuVardhan34/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/VishnuVardhan34/LeetCode/tree/master/2029-stone-game-ix) |
@@ -70,6 +71,7 @@ This Repo contains all my LeetCode solutions..
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/VishnuVardhan34/LeetCode/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/VishnuVardhan34/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VishnuVardhan34/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
@@ -96,4 +98,8 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VishnuVardhan34/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/VishnuVardhan34/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
