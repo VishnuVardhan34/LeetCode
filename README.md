@@ -23,6 +23,7 @@ This Repo contains all my LeetCode solutions..
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/VishnuVardhan34/LeetCode/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/VishnuVardhan34/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/VishnuVardhan34/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/VishnuVardhan34/LeetCode/tree/master/2029-stone-game-ix) |
@@ -71,6 +72,7 @@ This Repo contains all my LeetCode solutions..
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/VishnuVardhan34/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/VishnuVardhan34/LeetCode/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/VishnuVardhan34/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/VishnuVardhan34/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
