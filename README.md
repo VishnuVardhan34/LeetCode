@@ -31,6 +31,7 @@ This Repo contains all my LeetCode solutions..
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VishnuVardhan34/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VishnuVardhan34/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/VishnuVardhan34/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ This Repo contains all my LeetCode solutions..
 | [1927-sum-game](https://github.com/VishnuVardhan34/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/VishnuVardhan34/LeetCode/tree/master/2029-stone-game-ix) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/VishnuVardhan34/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
