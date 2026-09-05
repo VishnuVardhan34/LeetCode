@@ -5,6 +5,7 @@ This Repo contains all my LeetCode solutions..
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/VishnuVardhan34/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VishnuVardhan34/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VishnuVardhan34/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -24,6 +25,7 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [0136-single-number](https://github.com/VishnuVardhan34/LeetCode/tree/master/0136-single-number) |
+| [0496-next-greater-element-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/VishnuVardhan34/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/VishnuVardhan34/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/VishnuVardhan34/LeetCode/tree/master/2029-stone-game-ix) |
@@ -111,4 +113,12 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/VishnuVardhan34/LeetCode/tree/master/0231-power-of-two) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
