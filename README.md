@@ -26,6 +26,7 @@ This Repo contains all my LeetCode solutions..
 | ------- |
 | [0136-single-number](https://github.com/VishnuVardhan34/LeetCode/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/VishnuVardhan34/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1386-cinema-seat-allocation](https://github.com/VishnuVardhan34/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/VishnuVardhan34/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/VishnuVardhan34/LeetCode/tree/master/2029-stone-game-ix) |
@@ -117,8 +118,10 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/VishnuVardhan34/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/VishnuVardhan34/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
