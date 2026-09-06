@@ -13,6 +13,7 @@ This Repo contains all my LeetCode solutions..
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/VishnuVardhan34/LeetCode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/VishnuVardhan34/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VishnuVardhan34/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VishnuVardhan34/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -91,6 +92,7 @@ This Repo contains all my LeetCode solutions..
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/VishnuVardhan34/LeetCode/tree/master/0115-distinct-subsequences) |
 | [1872-stone-game-viii](https://github.com/VishnuVardhan34/LeetCode/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
