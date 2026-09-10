@@ -127,4 +127,16 @@ This Repo contains all my LeetCode solutions..
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishnuVardhan34/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishnuVardhan34/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishnuVardhan34/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishnuVardhan34/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
