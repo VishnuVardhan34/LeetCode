@@ -9,6 +9,7 @@ This Repo contains all my LeetCode solutions..
 | [1386-cinema-seat-allocation](https://github.com/VishnuVardhan34/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VishnuVardhan34/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VishnuVardhan34/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VishnuVardhan34/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VishnuVardhan34/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
@@ -33,6 +34,7 @@ This Repo contains all my LeetCode solutions..
 | [2029-stone-game-ix](https://github.com/VishnuVardhan34/LeetCode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VishnuVardhan34/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VishnuVardhan34/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VishnuVardhan34/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/VishnuVardhan34/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -117,6 +119,7 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/VishnuVardhan34/LeetCode/tree/master/0231-power-of-two) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VishnuVardhan34/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -139,4 +142,8 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishnuVardhan34/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/VishnuVardhan34/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
