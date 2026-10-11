@@ -146,4 +146,8 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/VishnuVardhan34/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/VishnuVardhan34/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
