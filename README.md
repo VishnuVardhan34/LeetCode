@@ -34,6 +34,7 @@ This Repo contains all my LeetCode solutions..
 | [0014-longest-common-prefix](https://github.com/VishnuVardhan34/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishnuVardhan34/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VishnuVardhan34/LeetCode/tree/master/0136-single-number) |
+| [0228-summary-ranges](https://github.com/VishnuVardhan34/LeetCode/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishnuVardhan34/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1386-cinema-seat-allocation](https://github.com/VishnuVardhan34/LeetCode/tree/master/1386-cinema-seat-allocation) |
