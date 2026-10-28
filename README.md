@@ -32,6 +32,7 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VishnuVardhan34/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0054-spiral-matrix](https://github.com/VishnuVardhan34/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/VishnuVardhan34/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishnuVardhan34/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VishnuVardhan34/LeetCode/tree/master/0136-single-number) |
@@ -105,6 +106,7 @@ This Repo contains all my LeetCode solutions..
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VishnuVardhan34/LeetCode/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
@@ -131,6 +133,7 @@ This Repo contains all my LeetCode solutions..
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VishnuVardhan34/LeetCode/tree/master/0054-spiral-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VishnuVardhan34/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
