@@ -17,6 +17,7 @@ This Repo contains all my LeetCode solutions..
 | ------- |
 | [0013-roman-to-integer](https://github.com/VishnuVardhan34/LeetCode/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/VishnuVardhan34/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0392-is-subsequence](https://github.com/VishnuVardhan34/LeetCode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/VishnuVardhan34/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/VishnuVardhan34/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VishnuVardhan34/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -103,6 +104,7 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/VishnuVardhan34/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0392-is-subsequence](https://github.com/VishnuVardhan34/LeetCode/tree/master/0392-is-subsequence) |
 | [1872-stone-game-viii](https://github.com/VishnuVardhan34/LeetCode/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
@@ -166,5 +168,6 @@ This Repo contains all my LeetCode solutions..
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/VishnuVardhan34/LeetCode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/VishnuVardhan34/LeetCode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
