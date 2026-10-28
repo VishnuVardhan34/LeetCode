@@ -16,6 +16,7 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VishnuVardhan34/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/VishnuVardhan34/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/VishnuVardhan34/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/VishnuVardhan34/LeetCode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/VishnuVardhan34/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -30,6 +31,7 @@ This Repo contains all my LeetCode solutions..
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VishnuVardhan34/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishnuVardhan34/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VishnuVardhan34/LeetCode/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -172,4 +174,8 @@ This Repo contains all my LeetCode solutions..
 | ------- |
 | [0392-is-subsequence](https://github.com/VishnuVardhan34/LeetCode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/VishnuVardhan34/LeetCode/tree/master/1768-merge-strings-alternately) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VishnuVardhan34/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
