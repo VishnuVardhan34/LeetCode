@@ -32,6 +32,7 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VishnuVardhan34/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/VishnuVardhan34/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VishnuVardhan34/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/VishnuVardhan34/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishnuVardhan34/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -57,6 +58,7 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VishnuVardhan34/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/VishnuVardhan34/LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/VishnuVardhan34/LeetCode/tree/master/0231-power-of-two) |
 | [1872-stone-game-viii](https://github.com/VishnuVardhan34/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/VishnuVardhan34/LeetCode/tree/master/1927-sum-game) |
@@ -133,6 +135,7 @@ This Repo contains all my LeetCode solutions..
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VishnuVardhan34/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VishnuVardhan34/LeetCode/tree/master/0054-spiral-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VishnuVardhan34/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
