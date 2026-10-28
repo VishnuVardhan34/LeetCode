@@ -32,6 +32,7 @@ This Repo contains all my LeetCode solutions..
 | [1386-cinema-seat-allocation](https://github.com/VishnuVardhan34/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/VishnuVardhan34/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/VishnuVardhan34/LeetCode/tree/master/2029-stone-game-ix) |
+| [2239-find-closest-number-to-zero](https://github.com/VishnuVardhan34/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VishnuVardhan34/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VishnuVardhan34/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
