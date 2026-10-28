@@ -30,6 +30,7 @@ This Repo contains all my LeetCode solutions..
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VishnuVardhan34/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VishnuVardhan34/LeetCode/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishnuVardhan34/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -104,6 +105,7 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/VishnuVardhan34/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VishnuVardhan34/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/VishnuVardhan34/LeetCode/tree/master/0392-is-subsequence) |
 | [1872-stone-game-viii](https://github.com/VishnuVardhan34/LeetCode/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
