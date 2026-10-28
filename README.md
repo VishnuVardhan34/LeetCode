@@ -32,6 +32,7 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VishnuVardhan34/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0056-merge-intervals](https://github.com/VishnuVardhan34/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishnuVardhan34/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VishnuVardhan34/LeetCode/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/VishnuVardhan34/LeetCode/tree/master/0228-summary-ranges) |
@@ -171,6 +172,7 @@ This Repo contains all my LeetCode solutions..
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/VishnuVardhan34/LeetCode/tree/master/0056-merge-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VishnuVardhan34/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -181,4 +183,8 @@ This Repo contains all my LeetCode solutions..
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VishnuVardhan34/LeetCode/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/VishnuVardhan34/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
