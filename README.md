@@ -28,6 +28,7 @@ This Repo contains all my LeetCode solutions..
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VishnuVardhan34/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VishnuVardhan34/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/VishnuVardhan34/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This Repo contains all my LeetCode solutions..
 | [2029-stone-game-ix](https://github.com/VishnuVardhan34/LeetCode/tree/master/2029-stone-game-ix) |
 | [2239-find-closest-number-to-zero](https://github.com/VishnuVardhan34/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/VishnuVardhan34/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VishnuVardhan34/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VishnuVardhan34/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VishnuVardhan34/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -122,6 +124,7 @@ This Repo contains all my LeetCode solutions..
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VishnuVardhan34/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1872-stone-game-viii](https://github.com/VishnuVardhan34/LeetCode/tree/master/1872-stone-game-viii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/VishnuVardhan34/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/VishnuVardhan34/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/VishnuVardhan34/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
